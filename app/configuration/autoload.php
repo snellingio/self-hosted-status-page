@@ -12,8 +12,8 @@ if (getenv('REDIS_URL')) {
         'API_KEY'              => getenv('API_KEY'),
     ];
     $database = [
-        'REDIS_HOST'     => $redis['host'],
-        'REDIS_PORT'     => $redis['port'],
+        'REDIS_HOST'     => $redisHost,
+        'REDIS_PORT'     => $redisPort,
         'REDIS_PASSWORD' => $redisPass,
         'REDIS_PREFIX'   => getenv('REDIS_PREFIX'),
     ];
