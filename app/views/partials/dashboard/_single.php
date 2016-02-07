@@ -93,7 +93,7 @@
     	bootbox.dialog({
 	        title: "Edit - <?=$this->e($page['name'])?>",
 	        message: '<form id="edit<?=$this->e($page['key'])?>" \
-	        			action="/dashboard/incidents/<?=$this->e($page['key'])?>" method="POST"> \
+	        			action="/dashboard/incidents/p/<?=$this->e($page['key'])?>" method="POST"> \
 						<input type="hidden" name="form" value="update-page"> \
 						<input type="hidden" name="page[key]" value="<?=$this->e($page['key'])?>"> \
 				    	<div class="form-group"> \
