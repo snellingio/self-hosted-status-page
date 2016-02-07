@@ -30,7 +30,6 @@ class Settings extends \Controller\AbstractDashboardController
             $post['settings']['require_api_key'] = true;
         }
 
-        $post['settings']['public_page']               = ($post['settings']['public_page'] === 'true');
         $post['settings']['webhook_urls']              = explode("\n", $post['settings']['webhook_urls']);
         $post['settings']['uptimerobot_response_time'] = ($post['settings']['uptimerobot_response_time'] === 'true');
         $post['settings']['uptimerobot_up_time']       = ($post['settings']['uptimerobot_up_time'] === 'true');
