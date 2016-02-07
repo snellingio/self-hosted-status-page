@@ -1,9 +1,9 @@
 Status Cat
 =================
 
-Increase transparency and provide better customer support by communicating downtime issues with a self hosted status dashboard.
-A self hosted Status page for you and your company to communicate with internal and external stakeholders. [Support](https://snelling.io)
+A self hosted Status page for you and your company to communicate with internal and external stakeholders.
 
+[Support](https://snelling.io), [Twitter](https://twitter.com/snellingio), [![Codacy Badge](https://api.codacy.com/project/badge/grade/0b8d213b4fc54e779ec87fdad492830a)](https://www.codacy.com/app/sam/status-cat)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat/tree/master)
 
@@ -37,6 +37,7 @@ Look at some screenshots here: https://github.com/snellingio/status-cat/tree/mas
 ----
 
 ### Updates
+1.0.1 - Minor bug fixes.
 1.0.0 - We're up and running!
 
 ----

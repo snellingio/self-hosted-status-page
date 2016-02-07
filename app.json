@@ -20,7 +20,6 @@
   "image": "heroku/php",
   "addons": [
     "papertrail:choklad",
-    "heroku-redis:hobby-dev",
-    "blackfire:test"
+    "heroku-redis:hobby-dev"
   ]
 }
