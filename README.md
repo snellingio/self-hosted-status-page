@@ -31,6 +31,8 @@ A self hosted Status page for you and your company to communicate with internal 
 - Unlimited Outgoing Web Hooks
 - Instant HipChat, Twitter, Facebook, SMS, & Email integrations with Zapier via web hooks
 
+![Demo Dashboard](https://raw.githubusercontent.com/snellingio/status-cat/master/documentation/demo.png)
+
 ----
 
 ### Updates
