@@ -17,6 +17,9 @@ if (getenv('REDIS_URL')) {
         'REDIS_PASSWORD' => $redisPass,
         'REDIS_PREFIX'   => getenv('REDIS_PREFIX'),
     ];
+    if (getenv('DEMO')) {
+        $authentication = $authentication + ['DEMO' => true];
+    }
     $exports = $authentication + $database;
 } else {
     require __DIR__ . '/../../CONFIGURATION.php';
