@@ -5,16 +5,16 @@ Increase transparency and provide better customer support by communicating downt
 A self hosted Status page for you and your company to communicate with internal and external stakeholders. [Support](https://snelling.io)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat/tree/master)
 
 
 MIT License
 
-Look at some screenshots here: https://github.com/snellingio/status-cat/documentation
+Look at some screenshots here: https://github.com/snellingio/status-cat/tree/master/documentation
 
 ----
 
-### INCLUDED
+### Included
 - Heroku One Click Deploy
 - Choose A Public Page or Private (Internal, password protected) Page
 - Full Json Api
@@ -51,7 +51,7 @@ Look at some screenshots here: https://github.com/snellingio/status-cat/document
 
 Click here: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
 
-**Boom**
+----
 
 ### Non Heroku Configuration
 
