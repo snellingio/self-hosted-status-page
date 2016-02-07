@@ -2,11 +2,6 @@ Status Cat - A Self Hosted Status Page
 ======================================
 
 A self hosted Status page for you and your company to communicate with internal and external stakeholders.
-
-**Quick links:**
-- [MIT License](https://github.com/snellingio/status-cat/blob/master/LICENSE)
-- [Blog & Support](https://snelling.io)
-- [Twitter](https://twitter.com/snellingio)
 - [![Codacy Badge](https://api.codacy.com/project/badge/grade/0b8d213b4fc54e779ec87fdad492830a)](https://www.codacy.com/app/sam/status-cat)
 
 **Demo Pages:**
