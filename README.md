@@ -14,8 +14,8 @@ A self hosted Status page for you and your company to communicate with internal 
 - [DEMO PUBLIC PAGE](https://status-cat.herokuapp.com/)
 
 **Deploy To Heroku:**
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
-Heroku Redis is sometimes slow to deploy. Walk away, have a cup of coffee, and come back in 5.
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
+- Heroku Redis is sometimes slow to deploy. Walk away, have a cup of coffee, and come back in 5.
 
 **Features Included:**
 - Heroku One Click Deploy
