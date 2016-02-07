@@ -26,7 +26,7 @@ class Definitions
         'WEBHOOK'                   => false,
         'WEBHOOK_URLS'              => [],
         'RUNNING_TESTS'             => false,
-        'DEMO'                      => false,
+        'DEMO'                      => true,
         'VIEWS_DIR'                 => __DIR__ . '/../views/',
         'GZIP'                      => true,
         'SUPPORT_STATUS_CAT'        => true,
