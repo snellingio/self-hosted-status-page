@@ -182,11 +182,13 @@ class Form
 
     public function updatePage($post)
     {
-        if ($post['action'] === 'save') {
-            return $this->updatePageSave($post);
-        }
-        if ($post['action'] === 'delete') {
-            return $this->updatePageDelete($post);
+        if (isset($post['action'])) {
+            if ($post['action'] === 'save') {
+                return $this->updatePageSave($post);
+            }
+            if ($post['action'] === 'delete') {
+                return $this->updatePageDelete($post);
+            }
         }
         return false;
     }
