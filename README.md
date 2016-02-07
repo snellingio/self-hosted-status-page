@@ -1,5 +1,5 @@
-Status Cat
-=================
+Status Cat - A Self Hosted Status Page
+======================================
 
 A self hosted Status page for you and your company to communicate with internal and external stakeholders.
 
