@@ -1,0 +1,21 @@
+engines:
+  phpmd:
+    enabled: true
+  phpcodesniffer:
+    enabled: true
+    checks:
+      Generic Files LineLength TooLong:
+        enabled: false
+  fixme:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - php
+ratings:
+  paths:
+  - app/**
+exclude_paths:
+- spec/**
+- vendor/**

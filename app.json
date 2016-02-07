@@ -1,0 +1,24 @@
+{
+  "name": "Status Cat",
+  "repository": "https://github.com/OnROI/status-website.git",
+  "env": {
+    "ADMIN_USERNAME": {
+      "description": "The username to sign in to the dashboard.",
+      "value": "admin"
+    },
+    "ADMIN_PASSWORD": {
+      "description": "The password to sign in to the dashboard.",
+      "generator": "secret"
+    },
+    "API_KEY": {
+      "description": "The Api Key to use with the your api.",
+      "generator": "secret"
+    }
+  },
+  "image": "heroku/php",
+  "addons": [
+    "papertrail:choklad",
+    "heroku-redis:hobby-dev",
+    "blackfire:test"
+  ]
+}

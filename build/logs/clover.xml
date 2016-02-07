@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1454820593">
+  <project timestamp="1454820593">
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/configuration/autoload.php">
+      <line num="4" type="stmt" count="0"/>
+      <line num="10" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="0"/>
+      <line num="17" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="25" type="stmt" count="0"/>
+      <line num="26" type="stmt" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="39" type="stmt" count="2"/>
+      <line num="42" type="stmt" count="2"/>
+      <line num="45" type="stmt" count="2"/>
+      <line num="49" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/configuration/Definitions.php">
+      <line num="41" type="stmt" count="1"/>
+      <line num="47" type="stmt" count="0"/>
+      <line num="52" type="stmt" count="0"/>
+      <line num="54" type="stmt" count="0"/>
+      <line num="58" type="stmt" count="0"/>
+      <line num="59" type="stmt" count="0"/>
+      <line num="64" type="stmt" count="0"/>
+      <line num="66" type="stmt" count="0"/>
+      <line num="72" type="stmt" count="0"/>
+      <line num="74" type="stmt" count="0"/>
+      <line num="77" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/configuration/Routes.php">
+      <line num="40" type="stmt" count="2"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/AbstractApiController.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="25" type="stmt" count="10"/>
+      <line num="26" type="stmt" count="10"/>
+      <line num="27" type="stmt" count="10"/>
+      <line num="28" type="stmt" count="10"/>
+      <line num="29" type="stmt" count="10"/>
+      <line num="30" type="stmt" count="10"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/AbstractDashboardController.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="12"/>
+      <line num="36" type="stmt" count="12"/>
+      <line num="37" type="stmt" count="12"/>
+      <line num="39" type="stmt" count="12"/>
+      <line num="41" type="stmt" count="12"/>
+      <line num="44" type="stmt" count="12"/>
+      <line num="45" type="stmt" count="12"/>
+      <line num="46" type="stmt" count="12"/>
+      <line num="47" type="stmt" count="12"/>
+      <line num="48" type="stmt" count="12"/>
+      <line num="49" type="stmt" count="12"/>
+      <line num="50" type="stmt" count="12"/>
+      <line num="51" type="stmt" count="12"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/AbstractPageController.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="8"/>
+      <line num="30" type="stmt" count="8"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="41" type="stmt" count="8"/>
+      <line num="42" type="stmt" count="8"/>
+      <line num="43" type="stmt" count="8"/>
+      <line num="44" type="stmt" count="8"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/api/Components.php">
+      <line num="12" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="23" type="stmt" count="0"/>
+      <line num="24" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/api/Incidents.php">
+      <line num="12" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="23" type="stmt" count="0"/>
+      <line num="24" type="stmt" count="0"/>
+      <line num="25" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="48" type="stmt" count="0"/>
+      <line num="52" type="stmt" count="0"/>
+      <line num="56" type="stmt" count="0"/>
+      <line num="59" type="stmt" count="0"/>
+      <line num="67" type="stmt" count="0"/>
+      <line num="75" type="stmt" count="0"/>
+      <line num="77" type="stmt" count="0"/>
+      <line num="84" type="stmt" count="0"/>
+      <line num="85" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/api/Single.php">
+      <line num="12" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="17" type="stmt" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <line num="21" type="stmt" count="1"/>
+      <line num="24" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="38" type="stmt" count="0"/>
+      <line num="41" type="stmt" count="0"/>
+      <line num="46" type="stmt" count="0"/>
+      <line num="47" type="stmt" count="0"/>
+      <line num="48" type="stmt" count="0"/>
+      <line num="49" type="stmt" count="0"/>
+      <line num="52" type="stmt" count="0"/>
+      <line num="56" type="stmt" count="0"/>
+      <line num="60" type="stmt" count="0"/>
+      <line num="64" type="stmt" count="0"/>
+      <line num="68" type="stmt" count="0"/>
+      <line num="72" type="stmt" count="0"/>
+      <line num="81" type="stmt" count="0"/>
+      <line num="82" type="stmt" count="0"/>
+      <line num="83" type="stmt" count="0"/>
+      <line num="90" type="stmt" count="0"/>
+      <line num="91" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/api/Status.php">
+      <line num="12" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="17" type="stmt" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="1"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/api/UptimeRobot.php">
+      <line num="11" type="stmt" count="1"/>
+      <line num="14" type="stmt" count="0"/>
+      <line num="15" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/dashboard/Components.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="14" type="stmt" count="1"/>
+      <line num="19" type="stmt" count="0"/>
+      <line num="20" type="stmt" count="0"/>
+      <line num="21" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="25" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/dashboard/Dashboard.php">
+      <line num="11" type="stmt" count="0"/>
+      <line num="13" type="stmt" count="1"/>
+      <line num="14" type="stmt" count="1"/>
+      <line num="15" type="stmt" count="1"/>
+      <line num="20" type="stmt" count="0"/>
+      <line num="21" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="23" type="stmt" count="0"/>
+      <line num="26" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/dashboard/Import.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="17" type="stmt" count="0"/>
+      <line num="18" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="25" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="39" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/dashboard/Incidents.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="13" type="stmt" count="1"/>
+      <line num="15" type="stmt" count="1"/>
+      <line num="16" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="21" type="stmt" count="1"/>
+      <line num="26" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="43" type="stmt" count="0"/>
+      <line num="45" type="stmt" count="0"/>
+      <line num="46" type="stmt" count="0"/>
+      <line num="49" type="stmt" count="0"/>
+      <line num="51" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/dashboard/Settings.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="13" type="stmt" count="1"/>
+      <line num="18" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="0"/>
+      <line num="20" type="stmt" count="0"/>
+      <line num="23" type="stmt" count="0"/>
+      <line num="26" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="38" type="stmt" count="0"/>
+      <line num="39" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="41" type="stmt" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="43" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/dashboard/Single.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="13" type="stmt" count="1"/>
+      <line num="14" type="stmt" count="1"/>
+      <line num="17" type="stmt" count="1"/>
+      <line num="20" type="stmt" count="0"/>
+      <line num="24" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="41" type="stmt" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="43" type="stmt" count="0"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="45" type="stmt" count="0"/>
+      <line num="48" type="stmt" count="0"/>
+      <line num="52" type="stmt" count="0"/>
+      <line num="54" type="stmt" count="0"/>
+      <line num="59" type="stmt" count="0"/>
+      <line num="63" type="stmt" count="0"/>
+      <line num="66" type="stmt" count="0"/>
+      <line num="69" type="stmt" count="0"/>
+      <line num="72" type="stmt" count="0"/>
+      <line num="76" type="stmt" count="0"/>
+      <line num="81" type="stmt" count="0"/>
+      <line num="82" type="stmt" count="0"/>
+      <line num="84" type="stmt" count="0"/>
+      <line num="85" type="stmt" count="0"/>
+      <line num="88" type="stmt" count="0"/>
+      <line num="91" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/dashboard/Template.php">
+      <line num="10" type="stmt" count="0"/>
+      <line num="11" type="stmt" count="0"/>
+      <line num="12" type="stmt" count="0"/>
+      <line num="17" type="stmt" count="0"/>
+      <line num="18" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="25" type="stmt" count="0"/>
+      <line num="26" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/page/History.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="13" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="17" type="stmt" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="21" type="stmt" count="1"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/page/PrivatePage.php">
+      <line num="11" type="stmt" count="0"/>
+      <line num="14" type="stmt" count="0"/>
+      <line num="15" type="stmt" count="0"/>
+      <line num="17" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="23" type="stmt" count="0"/>
+      <line num="24" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/page/Rss.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="13" type="stmt" count="1"/>
+      <line num="14" type="stmt" count="0"/>
+      <line num="15" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="20" type="stmt" count="1"/>
+      <line num="21" type="stmt" count="1"/>
+      <line num="22" type="stmt" count="1"/>
+      <line num="23" type="stmt" count="1"/>
+      <line num="24" type="stmt" count="1"/>
+      <line num="25" type="stmt" count="1"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="38" type="stmt" count="1"/>
+      <line num="39" type="stmt" count="1"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/page/Single.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="15" type="stmt" count="1"/>
+      <line num="18" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/controllers/page/Status.php">
+      <line num="10" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="13" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="17" type="stmt" count="1"/>
+      <line num="18" type="stmt" count="1"/>
+      <line num="19" type="stmt" count="1"/>
+      <line num="21" type="stmt" count="1"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/models/Component.php">
+      <line num="23" type="stmt" count="32"/>
+      <line num="24" type="stmt" count="32"/>
+      <line num="29" type="stmt" count="5"/>
+      <line num="30" type="stmt" count="5"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="5"/>
+      <line num="37" type="stmt" count="5"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="43" type="stmt" count="0"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="45" type="stmt" count="0"/>
+      <line num="46" type="stmt" count="0"/>
+      <line num="47" type="stmt" count="0"/>
+      <line num="48" type="stmt" count="0"/>
+      <line num="49" type="stmt" count="0"/>
+      <line num="50" type="stmt" count="0"/>
+      <line num="55" type="stmt" count="0"/>
+      <line num="60" type="stmt" count="0"/>
+      <line num="61" type="stmt" count="0"/>
+      <line num="62" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/models/Incident.php">
+      <line num="24" type="stmt" count="32"/>
+      <line num="25" type="stmt" count="32"/>
+      <line num="30" type="stmt" count="6"/>
+      <line num="31" type="stmt" count="6"/>
+      <line num="33" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="6"/>
+      <line num="38" type="stmt" count="6"/>
+      <line num="43" type="stmt" count="0"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="45" type="stmt" count="0"/>
+      <line num="46" type="stmt" count="0"/>
+      <line num="47" type="stmt" count="0"/>
+      <line num="48" type="stmt" count="0"/>
+      <line num="49" type="stmt" count="0"/>
+      <line num="50" type="stmt" count="0"/>
+      <line num="51" type="stmt" count="0"/>
+      <line num="52" type="stmt" count="0"/>
+      <line num="57" type="stmt" count="0"/>
+      <line num="62" type="stmt" count="0"/>
+      <line num="63" type="stmt" count="0"/>
+      <line num="64" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/models/Page.php">
+      <line num="21" type="stmt" count="32"/>
+      <line num="22" type="stmt" count="32"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="38" type="stmt" count="0"/>
+      <line num="39" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="41" type="stmt" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="43" type="stmt" count="0"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="49" type="stmt" count="0"/>
+      <line num="54" type="stmt" count="3"/>
+      <line num="55" type="stmt" count="3"/>
+      <line num="56" type="stmt" count="3"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/models/Settings.php">
+      <line num="46" type="stmt" count="12"/>
+      <line num="51" type="stmt" count="0"/>
+      <line num="52" type="stmt" count="0"/>
+      <line num="53" type="stmt" count="0"/>
+      <line num="58" type="stmt" count="1"/>
+      <line num="60" type="stmt" count="1"/>
+      <line num="62" type="stmt" count="0"/>
+      <line num="63" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/models/Template.php">
+      <line num="59" type="stmt" count="21"/>
+      <line num="64" type="stmt" count="0"/>
+      <line num="65" type="stmt" count="0"/>
+      <line num="66" type="stmt" count="0"/>
+      <line num="71" type="stmt" count="9"/>
+      <line num="73" type="stmt" count="9"/>
+      <line num="75" type="stmt" count="0"/>
+      <line num="76" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/services/Form.php">
+      <line num="19" type="stmt" count="13"/>
+      <line num="20" type="stmt" count="13"/>
+      <line num="21" type="stmt" count="13"/>
+      <line num="22" type="stmt" count="13"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="38" type="stmt" count="0"/>
+      <line num="45" type="stmt" count="0"/>
+      <line num="46" type="stmt" count="0"/>
+      <line num="48" type="stmt" count="0"/>
+      <line num="50" type="stmt" count="0"/>
+      <line num="59" type="stmt" count="0"/>
+      <line num="66" type="stmt" count="0"/>
+      <line num="67" type="stmt" count="0"/>
+      <line num="68" type="stmt" count="0"/>
+      <line num="69" type="stmt" count="0"/>
+      <line num="71" type="stmt" count="0"/>
+      <line num="78" type="stmt" count="0"/>
+      <line num="79" type="stmt" count="0"/>
+      <line num="81" type="stmt" count="0"/>
+      <line num="84" type="stmt" count="0"/>
+      <line num="85" type="stmt" count="0"/>
+      <line num="87" type="stmt" count="0"/>
+      <line num="93" type="stmt" count="0"/>
+      <line num="94" type="stmt" count="0"/>
+      <line num="96" type="stmt" count="0"/>
+      <line num="97" type="stmt" count="0"/>
+      <line num="98" type="stmt" count="0"/>
+      <line num="99" type="stmt" count="0"/>
+      <line num="100" type="stmt" count="0"/>
+      <line num="102" type="stmt" count="0"/>
+      <line num="104" type="stmt" count="0"/>
+      <line num="110" type="stmt" count="0"/>
+      <line num="112" type="stmt" count="0"/>
+      <line num="114" type="stmt" count="0"/>
+      <line num="117" type="stmt" count="0"/>
+      <line num="124" type="stmt" count="0"/>
+      <line num="125" type="stmt" count="0"/>
+      <line num="126" type="stmt" count="0"/>
+      <line num="127" type="stmt" count="0"/>
+      <line num="128" type="stmt" count="0"/>
+      <line num="129" type="stmt" count="0"/>
+      <line num="131" type="stmt" count="0"/>
+      <line num="137" type="stmt" count="0"/>
+      <line num="140" type="stmt" count="0"/>
+      <line num="142" type="stmt" count="0"/>
+      <line num="147" type="stmt" count="0"/>
+      <line num="148" type="stmt" count="0"/>
+      <line num="151" type="stmt" count="0"/>
+      <line num="154" type="stmt" count="0"/>
+      <line num="155" type="stmt" count="0"/>
+      <line num="156" type="stmt" count="0"/>
+      <line num="157" type="stmt" count="0"/>
+      <line num="163" type="stmt" count="0"/>
+      <line num="165" type="stmt" count="0"/>
+      <line num="167" type="stmt" count="0"/>
+      <line num="177" type="stmt" count="0"/>
+      <line num="178" type="stmt" count="0"/>
+      <line num="180" type="stmt" count="0"/>
+      <line num="186" type="stmt" count="0"/>
+      <line num="189" type="stmt" count="0"/>
+      <line num="191" type="stmt" count="0"/>
+      <line num="196" type="stmt" count="0"/>
+      <line num="198" type="stmt" count="0"/>
+      <line num="200" type="stmt" count="0"/>
+      <line num="201" type="stmt" count="0"/>
+      <line num="206" type="stmt" count="0"/>
+      <line num="207" type="stmt" count="0"/>
+      <line num="208" type="stmt" count="0"/>
+      <line num="209" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/services/Import.php">
+      <line num="16" type="stmt" count="12"/>
+      <line num="17" type="stmt" count="12"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="23" type="stmt" count="0"/>
+      <line num="24" type="stmt" count="0"/>
+      <line num="25" type="stmt" count="0"/>
+      <line num="26" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="32" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="38" type="stmt" count="0"/>
+      <line num="39" type="stmt" count="0"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="49" type="stmt" count="0"/>
+      <line num="50" type="stmt" count="0"/>
+      <line num="54" type="stmt" count="0"/>
+      <line num="58" type="stmt" count="0"/>
+      <line num="68" type="stmt" count="0"/>
+      <line num="69" type="stmt" count="0"/>
+      <line num="75" type="stmt" count="0"/>
+      <line num="76" type="stmt" count="0"/>
+      <line num="77" type="stmt" count="0"/>
+      <line num="80" type="stmt" count="0"/>
+      <line num="83" type="stmt" count="0"/>
+      <line num="86" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/services/UptimeRobot.php">
+      <line num="10" type="stmt" count="0"/>
+      <line num="11" type="stmt" count="0"/>
+      <line num="12" type="stmt" count="0"/>
+      <line num="13" type="stmt" count="0"/>
+      <line num="14" type="stmt" count="0"/>
+      <line num="15" type="stmt" count="0"/>
+      <line num="20" type="stmt" count="0"/>
+      <line num="21" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="43" type="stmt" count="0"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="45" type="stmt" count="0"/>
+      <line num="46" type="stmt" count="0"/>
+      <line num="50" type="stmt" count="0"/>
+      <line num="53" type="stmt" count="0"/>
+      <line num="58" type="stmt" count="0"/>
+      <line num="60" type="stmt" count="0"/>
+      <line num="64" type="stmt" count="0"/>
+      <line num="69" type="stmt" count="0"/>
+      <line num="70" type="stmt" count="0"/>
+      <line num="71" type="stmt" count="0"/>
+      <line num="72" type="stmt" count="0"/>
+      <line num="73" type="stmt" count="0"/>
+      <line num="74" type="stmt" count="0"/>
+      <line num="75" type="stmt" count="0"/>
+      <line num="76" type="stmt" count="0"/>
+      <line num="77" type="stmt" count="0"/>
+      <line num="82" type="stmt" count="0"/>
+      <line num="84" type="stmt" count="0"/>
+      <line num="85" type="stmt" count="0"/>
+      <line num="87" type="stmt" count="0"/>
+      <line num="89" type="stmt" count="0"/>
+      <line num="90" type="stmt" count="0"/>
+      <line num="92" type="stmt" count="0"/>
+      <line num="93" type="stmt" count="0"/>
+      <line num="100" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/services/Webhook.php">
+      <line num="11" type="stmt" count="0"/>
+      <line num="13" type="stmt" count="0"/>
+      <line num="14" type="stmt" count="0"/>
+      <line num="30" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="34" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="42" type="stmt" count="0"/>
+      <line num="55" type="stmt" count="0"/>
+      <line num="56" type="stmt" count="0"/>
+      <line num="57" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/source/Database.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="14" type="stmt" count="41"/>
+      <line num="15" type="stmt" count="41"/>
+      <line num="20" type="stmt" count="1"/>
+      <line num="25" type="stmt" count="1"/>
+      <line num="30" type="stmt" count="12"/>
+      <line num="32" type="stmt" count="1"/>
+      <line num="34" type="stmt" count="11"/>
+      <line num="39" type="stmt" count="9"/>
+      <line num="44" type="stmt" count="1"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/source/Request.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="16" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="0"/>
+      <line num="22" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="2"/>
+      <line num="32" type="stmt" count="1"/>
+      <line num="33" type="stmt" count="1"/>
+      <line num="38" type="stmt" count="1"/>
+      <line num="43" type="stmt" count="17"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/source/Response.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="38"/>
+      <line num="20" type="stmt" count="38"/>
+      <line num="22" type="stmt" count="38"/>
+      <line num="23" type="stmt" count="38"/>
+      <line num="24" type="stmt" count="38"/>
+      <line num="25" type="stmt" count="38"/>
+      <line num="26" type="stmt" count="38"/>
+      <line num="27" type="stmt" count="38"/>
+      <line num="28" type="stmt" count="38"/>
+      <line num="29" type="stmt" count="38"/>
+      <line num="30" type="stmt" count="38"/>
+      <line num="35" type="stmt" count="9"/>
+      <line num="36" type="stmt" count="9"/>
+      <line num="37" type="stmt" count="9"/>
+      <line num="38" type="stmt" count="9"/>
+      <line num="43" type="stmt" count="4"/>
+      <line num="50" type="stmt" count="0"/>
+      <line num="55" type="stmt" count="6"/>
+      <line num="56" type="stmt" count="6"/>
+      <line num="57" type="stmt" count="6"/>
+      <line num="58" type="stmt" count="6"/>
+      <line num="59" type="stmt" count="6"/>
+      <line num="65" type="stmt" count="13"/>
+      <line num="68" type="stmt" count="0"/>
+      <line num="69" type="stmt" count="0"/>
+      <line num="70" type="stmt" count="0"/>
+      <line num="71" type="stmt" count="0"/>
+      <line num="77" type="stmt" count="0"/>
+      <line num="80" type="stmt" count="0"/>
+      <line num="81" type="stmt" count="0"/>
+      <line num="82" type="stmt" count="0"/>
+      <line num="83" type="stmt" count="0"/>
+      <line num="86" type="stmt" count="0"/>
+      <line num="87" type="stmt" count="0"/>
+      <line num="88" type="stmt" count="0"/>
+      <line num="89" type="stmt" count="0"/>
+      <line num="95" type="stmt" count="14"/>
+      <line num="98" type="stmt" count="0"/>
+      <line num="101" type="stmt" count="0"/>
+      <line num="106" type="stmt" count="14"/>
+      <line num="107" type="stmt" count="14"/>
+      <line num="112" type="stmt" count="8"/>
+      <line num="113" type="stmt" count="8"/>
+      <line num="118" type="stmt" count="17"/>
+      <line num="119" type="stmt" count="17"/>
+      <line num="124" type="stmt" count="38"/>
+      <line num="125" type="stmt" count="38"/>
+      <line num="130" type="stmt" count="38"/>
+      <line num="131" type="stmt" count="38"/>
+      <line num="136" type="stmt" count="2"/>
+      <line num="137" type="stmt" count="2"/>
+      <line num="138" type="stmt" count="2"/>
+      <line num="139" type="stmt" count="2"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/source/Router.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="18" type="stmt" count="23"/>
+      <line num="23" type="stmt" count="15"/>
+      <line num="24" type="stmt" count="15"/>
+      <line num="26" type="stmt" count="0"/>
+      <line num="28" type="stmt" count="0"/>
+      <line num="31" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="37" type="stmt" count="15"/>
+      <line num="43" type="stmt" count="1"/>
+      <line num="44" type="stmt" count="1"/>
+      <line num="45" type="stmt" count="0"/>
+      <line num="46" type="stmt" count="0"/>
+      <line num="47" type="stmt" count="0"/>
+      <line num="49" type="stmt" count="0"/>
+      <line num="52" type="stmt" count="0"/>
+      <line num="54" type="stmt" count="0"/>
+      <line num="55" type="stmt" count="0"/>
+      <line num="56" type="stmt" count="0"/>
+      <line num="60" type="stmt" count="0"/>
+      <line num="63" type="stmt" count="0"/>
+      <line num="65" type="stmt" count="0"/>
+      <line num="70" type="stmt" count="0"/>
+      <line num="71" type="stmt" count="0"/>
+      <line num="75" type="stmt" count="1"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/source/Session.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="16" type="stmt" count="17"/>
+      <line num="17" type="stmt" count="17"/>
+      <line num="22" type="stmt" count="13"/>
+      <line num="28" type="stmt" count="1"/>
+      <line num="30" type="stmt" count="12"/>
+      <line num="35" type="stmt" count="1"/>
+      <line num="36" type="stmt" count="1"/>
+      <line num="43" type="stmt" count="1"/>
+      <line num="44" type="stmt" count="1"/>
+      <line num="46" type="stmt" count="12"/>
+      <line num="48" type="stmt" count="1"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/source/Singleton.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="35" type="stmt" count="0"/>
+      <line num="38" type="stmt" count="46"/>
+      <line num="44" type="stmt" count="0"/>
+      <line num="47" type="stmt" count="0"/>
+      <line num="53" type="stmt" count="0"/>
+      <line num="56" type="stmt" count="0"/>
+      <line num="62" type="stmt" count="0"/>
+      <line num="65" type="stmt" count="0"/>
+      <line num="71" type="stmt" count="0"/>
+      <line num="74" type="stmt" count="0"/>
+      <line num="80" type="stmt" count="0"/>
+      <line num="83" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/_dashboard.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/_history.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/_private.php">
+      <line num="2" type="stmt" count="0"/>
+      <line num="20" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/_signin.php">
+      <line num="2" type="stmt" count="1"/>
+      <line num="20" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/_single.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/_status.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/_test.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/layouts/dashboard.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/layouts/status.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/_footer.php">
+      <line num="3" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/_header.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/__timezones.php">
+      <line num="11" type="stmt" count="0"/>
+      <line num="12" type="stmt" count="0"/>
+      <line num="15" type="stmt" count="0"/>
+      <line num="17" type="stmt" count="0"/>
+      <line num="18" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_components.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_components_new.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_import.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_incidents.php">
+      <line num="5" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_incidents_new.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_menu.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_settings.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_settings_options.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/dashboard/_single.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/history/_month.php">
+      <line num="6" type="stmt" count="1"/>
+      <line num="7" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="13" type="stmt" count="1"/>
+      <line num="17" type="stmt" count="0"/>
+      <line num="27" type="stmt" count="0"/>
+      <line num="29" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/single/_list.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/single/_title.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/status/_components.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/status/_day.php">
+      <line num="6" type="stmt" count="1"/>
+      <line num="11" type="stmt" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="28" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/status/_status.php">
+      <line num="9" type="stmt" count="0"/>
+      <line num="10" type="stmt" count="0"/>
+      <line num="18" type="stmt" count="0"/>
+      <line num="36" type="stmt" count="0"/>
+      <line num="40" type="stmt" count="0"/>
+      <line num="60" type="stmt" count="0"/>
+      <line num="62" type="stmt" count="0"/>
+    </file>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/status/_uptimerobot.php"/>
+    <file name="/Users/sam/Code/OnROI/self-hosted-status-website/app/views/partials/styles/_styles.php"/>
+    <metrics loc="2678" ncloc="1972" statements="706" coveredstatements="207"/>
+  </project>
+</coverage>

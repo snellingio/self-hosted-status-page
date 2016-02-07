@@ -1,0 +1,25 @@
+{
+    "name": "status-cat",
+    "version": "1.0.0",
+    "time": "2016-1-5",
+    "authors": [
+        {
+            "name": "Sam Snelling",
+            "email": "sam@snelling.io",
+            "homepage": "https://snelling.io"
+        }
+    ],
+    "require": {
+        "league/plates": "3.1.x",
+        "predis/predis": "1.0.x"
+    },
+    "require-dev": {
+        "crysalead/kahlan": "^2.1",
+        "codeclimate/php-test-reporter": "dev-master"
+    },
+    "autoload": {
+        "classmap": [
+            "app"
+        ]
+    }
+}
