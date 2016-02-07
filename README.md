@@ -13,6 +13,8 @@ A self hosted Status page for you and your company to communicate with internal 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
 - Heroku Redis is sometimes slow to deploy. Walk away, have a cup of coffee, and come back in 5.
 
+![Demo Dashboard](https://raw.githubusercontent.com/snellingio/status-cat/master/documentation/demo.png)
+
 **Features Included:**
 - Heroku One Click Deploy
 - Choose A Public Page or Private (Internal, password protected) Page
@@ -30,8 +32,6 @@ A self hosted Status page for you and your company to communicate with internal 
 - Native Slack Chat Integration
 - Unlimited Outgoing Web Hooks
 - Instant HipChat, Twitter, Facebook, SMS, & Email integrations with Zapier via web hooks
-
-![Demo Dashboard](https://raw.githubusercontent.com/snellingio/status-cat/master/documentation/demo.png)
 
 ----
 
