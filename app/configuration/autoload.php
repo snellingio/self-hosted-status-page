@@ -2,6 +2,9 @@
 
 if (getenv('REDIS_URL')) {
     $redis = parse_url(getenv('REDIS_URL'));
+    $redisHost = $redis['host'] ?? '';
+    $redisPort = $redis['port'] ?? '';
+    $redisPass = $redis['pass'] ?? '';
     $authentication = [
         'ADMIN_AUTHENTICATION' => [
             getenv('ADMIN_USERNAME') => getenv('ADMIN_PASSWORD'),
@@ -9,9 +12,9 @@ if (getenv('REDIS_URL')) {
         'API_KEY'              => getenv('API_KEY'),
     ];
     $database = [
-        'REDIS_HOST'     => ($redis['host'] ?? ''),
-        'REDIS_PORT'     => ($redis['port'] ?? ''),
-        'REDIS_PASSWORD' => ($redis['pass'] ?? ''),
+        'REDIS_HOST'     => $redis['host'],
+        'REDIS_PORT'     => $redis['port'],
+        'REDIS_PASSWORD' => $redisPass,
         'REDIS_PREFIX'   => getenv('REDIS_PREFIX'),
     ];
     $exports = $authentication + $database;
