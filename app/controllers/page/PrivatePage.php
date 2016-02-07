@@ -25,7 +25,6 @@ class PrivatePage extends \Controller\AbstractPageController
 
         if (DEMO) {
             $this->session->set('authenticated', true);
-            return $this->response->redirect('/dashboard/components');
         }
 
         if (PRIVATE_PAGE_PASSWORD == $post['password']) {
