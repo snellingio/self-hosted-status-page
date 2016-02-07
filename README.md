@@ -3,16 +3,15 @@ Status Cat
 
 A self hosted Status page for you and your company to communicate with internal and external stakeholders.
 
-[Support](https://snelling.io), [Twitter](https://twitter.com/snellingio), [![Codacy Badge](https://api.codacy.com/project/badge/grade/0b8d213b4fc54e779ec87fdad492830a)](https://www.codacy.com/app/sam/status-cat)
+[MIT License](https://github.com/snellingio/status-cat/blob/master/LICENSE), [Support](https://snelling.io), [Twitter](https://twitter.com/snellingio), [![Codacy Badge](https://api.codacy.com/project/badge/grade/0b8d213b4fc54e779ec87fdad492830a)](https://www.codacy.com/app/sam/status-cat)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat/tree/master)
+----
+
+### Deploy To Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
 
 **IF YOU GET A 500 ERROR WHEN DEPLOYING:** Heroku Redis is slow to deploy. Walk away, have a cup of coffee, and come back in 5.
-
-
-MIT License
-
-Look at some screenshots here: https://github.com/snellingio/status-cat/tree/master/documentation
 
 ----
 
@@ -47,14 +46,6 @@ Look at some screenshots here: https://github.com/snellingio/status-cat/tree/mas
 - Look at other integrations
 - Documentation on file structure, and how to customize the build process
 - Api Clients (Swagger)
-
-----
-
-### Heroku Configuration (Preferred)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
-
-**IF YOU GET A 500 ERROR WHEN DEPLOYING:** Heroku Redis is slow to deploy. Walk away, have a cup of coffee, and come back in 5.
 
 ----
 
