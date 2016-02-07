@@ -7,6 +7,8 @@ A self hosted Status page for you and your company to communicate with internal 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat/tree/master)
 
+**IF YOU GET A 500 ERROR WHEN DEPLOYING:** Heroku Redis is slow to deploy. Walk away, have a cup of coffee, and come back in 5.
+
 
 MIT License
 
@@ -49,7 +51,9 @@ Look at some screenshots here: https://github.com/snellingio/status-cat/tree/mas
 
 ### Heroku Configuration (Preferred)
 
-Click here: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/snellingio/status-cat)
+
+**IF YOU GET A 500 ERROR WHEN DEPLOYING:** Heroku Redis is slow to deploy. Walk away, have a cup of coffee, and come back in 5.
 
 ----
 
