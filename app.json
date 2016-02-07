@@ -1,6 +1,8 @@
 {
   "name": "Status Cat",
   "repository": "https://github.com/OnROI/status-website.git",
+  "website": "https://snelling.io/",
+  "success_url": "/dashboard",
   "env": {
     "ADMIN_USERNAME": {
       "description": "The username to sign in to the dashboard.",
