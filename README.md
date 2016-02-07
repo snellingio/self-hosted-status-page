@@ -37,8 +37,8 @@ Look at some screenshots here: https://github.com/snellingio/status-cat/tree/mas
 ----
 
 ### Updates
-1.0.1 - Minor bug fixes.
-1.0.0 - We're up and running!
+- 1.0.1 - Minor bug fixes.
+- 1.0.0 - We're up and running!
 
 ----
 
@@ -58,7 +58,7 @@ Look at some screenshots here: https://github.com/snellingio/status-cat/tree/mas
 
 ----
 
-### Non Heroku Configuration
+### Non Heroku Configuration - Setup
 
 **Step 1:** Rename `CONFIGURATION.sample.php` to `CONFIGURATION.php`
 
@@ -68,7 +68,7 @@ Look at some screenshots here: https://github.com/snellingio/status-cat/tree/mas
 
 ----
 
-### Non Heroku Server Configuration
+### Non Heroku Configuration - Server
 
 Hopefully, you will never have to do any of this if you're using the one click Heroku deploy. Of course, many people will want to deploy this in other places, so here's a run down.
 
