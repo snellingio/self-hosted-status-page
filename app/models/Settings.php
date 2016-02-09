@@ -11,7 +11,6 @@ class Settings
     private $table   = 'settings';
     private $columns = [
         'timezone',
-        'slack_webhook',
         'uptimerobot',
         'uptimerobot_response_time',
         'uptimerobot_up_time',
@@ -20,14 +19,14 @@ class Settings
         'support_status_cat',
         'webhook',
         'webhook_urls',
+        'slack_webhook',
+        'slack_webhook_url',
         'public_page',
         'private_page_password',
         'require_api_key',
     ];
     private $defaults = [
         'timezone'                  => 'America/Chicago',
-        'slack_webhook'             => false,
-        'slack_webhook_url'         => '',
         'uptimerobot'               => false,
         'uptimerobot_response_time' => false,
         'uptimerobot_up_time'       => false,
@@ -36,6 +35,8 @@ class Settings
         'support_status_cat'        => true,
         'webhook'                   => false,
         'webhook_urls'              => [],
+        'slack_webhook'             => false,
+        'slack_webhook_url'         => '',
         'public_page'               => true,
         'private_page_password'     => '',
         'require_api_key'           => false,
