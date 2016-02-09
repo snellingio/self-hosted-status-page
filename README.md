@@ -36,6 +36,7 @@ A self hosted Status page for you and your company to communicate with internal 
 ----
 
 ### Updates
+- 1.0.2 - Fixes with the Slack integration.
 - 1.0.1 - Minor bug fixes.
 - 1.0.0 - We're up and running!
 
