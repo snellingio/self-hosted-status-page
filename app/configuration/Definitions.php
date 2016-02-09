@@ -44,11 +44,7 @@ class Definitions
     public function load()
     {
         if (!defined('BASE_URL')) {
-            if (strpos($_SERVER['HTTP_HOST'], 'http')) {
-                define('BASE_URL', 'http://'.$_SERVER['HTTP_HOST']);
-            } else {
-                define('BASE_URL', $_SERVER['HTTP_HOST']);
-            }
+            define('BASE_URL', $_SERVER['HTTP_HOST']);
         }
         foreach ($this->definitions as $key => $value) {
             if (!defined($key)) {

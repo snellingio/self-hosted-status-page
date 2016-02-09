@@ -64,7 +64,7 @@ class Form
                     'incidents' => [$createdIncident['key']],
                 ]
             );
-            $message = "[Status Update] " . $post['incident']['name'] . " \n Currently " . ucfirst($post['incident']['status']) . "... \n " . $post['incident']['description'] . " \n <" . BASE_URL . "/incidents/" . $pageKey . "|Click here for more updates> ";
+            $message = "[Status Update] " . $post['incident']['name'] . " \n Currently " . ucfirst($post['incident']['status']) . "... \n " . $post['incident']['description'] . " \n <" .'http://'. BASE_URL . "/incidents/" . $pageKey . "|Click here for more updates> ";
             $this->webhook->slack($message);
             return true;
         }
@@ -124,7 +124,7 @@ class Form
             );
             $currentPage['incidents'][] = $createdIncident['key'];
             $this->page->create($currentPage);
-            $message = "[Status Update] " . $currentPage['name'] . " \n Currently " . ucfirst($post['incident']['status']) . "... \n " . $post['incident']['description'] . " \n <" . BASE_URL . "/incidents/" . $currentPage['key'] . "|Click here for more updates> ";
+            $message = "[Status Update] " . $currentPage['name'] . " \n Currently " . ucfirst($post['incident']['status']) . "... \n " . $post['incident']['description'] . " \n <" . 'http://' . BASE_URL . "/incidents/" . $currentPage['key'] . "|Click here for more updates> ";
             $this->webhook->slack($message);
             return true;
         }
