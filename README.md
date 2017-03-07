@@ -1,7 +1,7 @@
 Status Cat - A Self Hosted Status Page
 ======================================
 
-**This project is no longer maintained. It has been phased out for OnROI's Status CE project found here https://github.com/OnROI/status-ce**
+**This project is no longer maintained.**
 
 A self hosted Status page for you and your company to communicate with internal and external stakeholders.
 
