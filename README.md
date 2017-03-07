@@ -1,4 +1,4 @@
-Status Cat - A Self Hosted Status Page
+Self Hosted Status Page
 ======================================
 
 **This project is no longer maintained.**
